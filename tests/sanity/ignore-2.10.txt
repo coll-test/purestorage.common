@@ -1,0 +1,4 @@
+plugins/module_utils/pure.py future-import-boilerplate
+plugins/module_utils/pure.py metaclass-boilerplate
+plugins/doc_fragments/purestorage.py future-import-boilerplate
+plugins/doc_fragments/purestorage.py metaclass-boilerplate
